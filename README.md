@@ -1,16 +1,16 @@
 # Tesla Charge Calculator
 
-Репозиторий Бэкенда:/n
-https://github.com/ProkIlya/RT5-51-Prokofiev-Ilya-Tesla-Charge-Calculator-Backend
+- **Репозиторий бэкенда**:  
+  https://github.com/ProkIlya/RT5-51-Prokofiev-Ilya-Tesla-Charge-Calculator-Backend
 
-Репозитория Фронтенда:
-https://github.com/ProkIlya/RT5-51-Prokofiev-Ilya-Tesla-Charge-Calculator-Frontend
+- **Репозиторий фронтенда**:  
+  https://github.com/ProkIlya/RT5-51-Prokofiev-Ilya-Tesla-Charge-Calculator-Frontend
 
-Репозиторий асинхронного веб-сервиса:
-https://github.com/ProkIlya/RT5-51-Prokofiev-Tesla-Charge-calculation-service
+- **Репозиторий асинхронного веб-сервиса**:  
+  https://github.com/ProkIlya/RT5-51-Prokofiev-Tesla-Charge-calculation-service
 
-Github Pages:
-https://prokilya.github.io/RT5-51-Prokofiev-Ilya-Tesla-Charge-Calculator-Frontend/
+- **GitHub Pages**:  
+  https://prokilya.github.io/RT5-51-Prokofiev-Ilya-Tesla-Charge-Calculator-Frontend/
 
-Ветка Tauri приложения:
-https://github.com/ProkIlya/RT5-51-Prokofiev-Ilya-Tesla-Charge-Calculator-Frontend/tree/Tauri
+- **Ветка Tauri приложения**:  
+  https://github.com/ProkIlya/RT5-51-Prokofiev-Ilya-Tesla-Charge-Calculator-Frontend/tree/Tauri
